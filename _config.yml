@@ -9,7 +9,7 @@ bio: A Man who travels the world eating noodles
 # better with square images
 external-image: false
 picture: assets/images/profile.jpg
-bio: assets/images/bio.jpg
+bio-image: assets/images/bio.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
