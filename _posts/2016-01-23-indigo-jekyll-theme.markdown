@@ -13,6 +13,7 @@ author: johndoe
 externalLink: false
 pdf: 10.1145/2791347.2791352
 github: ireos-extension
+link: true
 ---
 
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
