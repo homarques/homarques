@@ -1,5 +1,5 @@
 ---
-title: "IREOS: Internal index for evaluating binary outlier detection results"
+title: "IREOS - binary outlier detection results only"
 layout: post
 date: 2021-04-01 12:40
 tag: ireos
