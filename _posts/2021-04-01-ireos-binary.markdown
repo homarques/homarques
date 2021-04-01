@@ -1,5 +1,5 @@
 ---
-title: "IREOS, internal index for outlier detection results"
+title: "IREOS for binary outlier detection results"
 layout: post
 date: 2021-04-01 12:40
 tag: ireos
@@ -10,6 +10,6 @@ description: "IREOS can evaluate and compare different candidate labelings of a 
 category: project
 author: henrique
 externalLink: false
-pdf: 10.1145/3394053
-github: ireos-extension
+pdf: 10.1145/2791347.2791352
+github: IREOS-java
 ---
