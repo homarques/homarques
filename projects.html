@@ -6,19 +6,19 @@ title: Projects
     {% for post in site.posts %}
         {% if post.projects %}
             <div class="item {% if post.star %}star{% endif %}">
-                <a style="text-decoration:none" class="link" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+                <a class="link" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
                 <h3 class="title">{{ post.title }}</h3>
                 </a>
                     <aside>
                         {% if post.pdf %}
-                            <a class="link" data-title="PDF" href="https://dl.acm.org/doi/{{ post.pdf }}" target="_blank">
+                            <a class="link" style="text-decoration:none"  href="https://dl.acm.org/doi/{{ post.pdf }}" target="_blank">
                                 <svg class="icon icon-scholar"><use xlink:href="#icon-scholar"></use></svg>
                             </a>
                         {% endif %}
                         
                         {% if post.github %}
                             &nbsp;&nbsp;
-                            <a class="link" data-title="Code" href="https://github.com/homarques/{{ post.github }}" target="_blank">
+                            <a class="link" style="text-decoration:none" href="https://github.com/homarques/{{ post.github }}" target="_blank">
                                 <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
                             </a>
                         {% endif %}
