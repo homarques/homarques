@@ -6,7 +6,6 @@ title: Projects
     {% for post in site.posts %}
         {% if post.projects %}
             <div class="item {% if post.star %}star{% endif %}">
-                <div>
                 <a class="link" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
                     <h3 class="title">{{ post.title }}</h3>
                 </a>
@@ -24,7 +23,6 @@ title: Projects
                             </a>
                         {% endif %}
                     </aside>
-                    </div>
             </div>
         {% endif %}
     {% endfor %}
