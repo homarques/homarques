@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.bio-image }}{% endif %})
 
-<p>Henrique Oliveira Marques received his Bachelor degree in Computer Science from the Federal University of Mato Grosso, Brazil, in 2013, and his MSc and PhD degrees in Computer Science and Computational Mathematics from the University of São Paulo, Brazil, in 2015 and 2019, respectively. During his PhD, he was a Visiting Research at the Department of Computing Science of the University of Alberta, Canada (Sep/2017 - Aug/2018), where he returned as a Postdoctoral Fellow from Jan/2020 to Feb/2021.</p>
+<p>Henrique Oliveira Marques received his Bachelor degree in Computer Science from the Federal University of Mato Grosso, Brazil, in 2013, and his MSc and PhD degrees in Computer Science and Computational Mathematics from the University of São Paulo, Brazil, in 2015 and 2019, respectively. During his PhD, he held a Research Internship abroad as Visiting Research at the Department of Computing Science of the University of Alberta, Canada (Sep/2017 - Aug/2018), where he returned as a Postdoctoral Fellow from Jan/2020 to Feb/2021.</p>
 
 <h2>Skills</h2>
 
