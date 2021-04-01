@@ -6,7 +6,7 @@ title: Projects
     {% for post in site.posts %}
         {% if post.projects %}
             <div class="item {% if post.star %}star{% endif %}">
-                <a class="link" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+                <a style="text-decoration:none" class="link" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
                 <aside>
                         {% if post.pdf %}
                             <a class="link" data-title="PDF" href="https://dl.acm.org/doi/{{ post.pdf }}" target="_blank">
