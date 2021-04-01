@@ -34,6 +34,12 @@
             <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg>
         </a>
     {% endif %}
+   
+    {% if site.scholar %}
+        <a class="link" data-title="Google scholar" href="{{ site.scholar }}" target="_blank">
+            <i class="fas fa-graduation-cap"></i>
+        </a>
+    {% endif %}
 
     {% if site.youtube %}
         <a class="link" data-title="youtube.com/{{ site.youtube }}" href="https://youtube.com/{{ site.youtube }}" target="_blank">
