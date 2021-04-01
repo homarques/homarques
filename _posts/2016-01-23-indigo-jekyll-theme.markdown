@@ -11,8 +11,8 @@ description: "This is a simple and minimalist template for Jekyll for those who 
 category: project
 author: johndoe
 externalLink: false
-pdf: 10.1145/2791347.2791352
-github: ireos-extension
+#pdf: 10.1145/2791347.2791352
+#github: ireos-extension
 ---
 
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
