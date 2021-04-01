@@ -6,9 +6,7 @@ title: Projects
     {% for post in site.posts %}
         {% if post.projects %}
             <div class="item {% if post.star %}star{% endif %}">
-                <a class="link" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                    <h3 class="title">{{ post.title }}</h3>
-                    <aside>
+                                    <aside>
                         {% if post.pdf %}
                             <a class="link" style="text-decoration:none"  href="https://dl.acm.org/doi/{{ post.pdf }}" target="_blank">
                                 <svg class="icon icon-scholar"><use xlink:href="#icon-scholar"></use></svg>
@@ -22,6 +20,8 @@ title: Projects
                             </a>
                         {% endif %}
                     </aside>
+                <a class="link" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+                    <h3 class="title">{{ post.title }}</h3>
                 </a>
             </div>
         {% endif %}
