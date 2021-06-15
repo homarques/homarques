@@ -57,7 +57,7 @@ scholar: Zl077OUAAAAJ&hl
 authors:
   henrique:
     name: Henrique Oliveira Marques
-    bio: <q>I am nothing</br>I shall never be anything</q>
+    bio: <q>I have within me all the dreams of the world</q>
     external-image: false
     picture: assets/images/profile.jpg
     linkedin: homarques
@@ -109,8 +109,6 @@ defaults:
       # setting all post to not hidden by default,
       # can be overridden in the front matter for a specific post
       hidden: false
-
-hard_wrap: true
 
 plugins:
   - jekyll-seo-tag
