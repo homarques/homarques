@@ -17,7 +17,7 @@
         {% endif %}
 
         <h1 class="title">{{ site.name }}</h1>
-        <h2 class="description">{{ site.bio | smartify}}</h2>
+        <h2 class="description">{{ site.bio | smartify | newline_to_br}}</h2>
 
         {% include social-links.html %}
     </header>
