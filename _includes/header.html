@@ -17,7 +17,7 @@
         {% endif %}
 
         <h1 class="title">{{ site.name }}</h1>
-        <h2 class="description"><q><a href="https://www.azores-adventures.com/2015/10/tabacaria-by-fernando-pessoa-%C3%A1lvaro-de-campos.html">I am nothing</br>I shall never be anything</br>I cannot want to be anything.</br>Aside from that, I have within me all the dreams of the world.</a></q></h2>
+        <h2 class="description">{{ site.bio | smartify }}</h2>
 
         {% include social-links.html %}
     </header>
