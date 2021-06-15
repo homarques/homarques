@@ -1,6 +1,6 @@
 # main text of home
 name: Henrique Oliveira Marques
-bio: <q>In a gentle way, you can shake the world</q>
+bio: <q>I am nothing</br>I shall never be anything</q>
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -57,7 +57,7 @@ scholar: Zl077OUAAAAJ&hl
 authors:
   henrique:
     name: Henrique Oliveira Marques
-    bio: <q>I am nothing</br>I shall never be anything</br></q>
+    bio: <q>I am nothing</br>I shall never be anything</q>
     external-image: false
     picture: assets/images/profile.jpg
     linkedin: homarques
