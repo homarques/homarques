@@ -57,7 +57,7 @@ scholar: Zl077OUAAAAJ&hl
 authors:
   henrique:
     name: Henrique Oliveira Marques
-    bio: <q>I am nothing</br>I shall never be anything</br>I cannot want to be anything.</br>Aside from that, I have within me all the dreams of the world.</q>
+    bio: <q>I am nothing</br>I shall never be anything</br></q>
     external-image: false
     picture: assets/images/profile.jpg
     linkedin: homarques
