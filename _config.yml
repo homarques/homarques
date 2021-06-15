@@ -1,6 +1,7 @@
 # main text of home
 name: Henrique Oliveira Marques
-bio: <q>I am nothing</br>I shall never be anything</q>
+bio: I am nothing</br>I shall never be anything
+# <q>I am nothing</br>I shall never be anything</q>
 
 # twitter summary info
 # description: A blog about technology and stuff related
