@@ -1,8 +1,10 @@
-<div class="social-links">
-    <a class="description" data-title="Tabacaria by Fernando Pessoa" href="https://facebook.com/" target="_blank">
-        {{ site.bio | smartify }}
-    </a>
-</div>
+{% if site.bio %}
+    <div class="social-links">
+        <a class="description" data-title={{ site.bio.author }} href={{ site.bio.url }} target="_blank">
+            {{ site.bio | smartify }}
+        </a>
+    </div>
+{% endif %}
 <div class="social-links">
     {% if site.facebook %}
         <a class="link" data-title="facebook.com/{{ site.facebook }}" href="https://facebook.com/{{ site.facebook }}" target="_blank">
