@@ -1,7 +1,7 @@
 {% if site.bio %}
     <div class="social-links">
         <a class="description" data-title="{{ site.bio-title }}" href={{ site.bio-url }} target="_blank">
-            {{ site.bio | smartify }}
+            {{ <q>site.bio</q> | smartify }}
         </a>
     </div>
 {% endif %}
