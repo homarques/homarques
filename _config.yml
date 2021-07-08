@@ -18,7 +18,7 @@ bio-image: assets/images/bio.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/1DH1wIw2GNzSlePLla50HqkC5JHiwTxHv/view
 
 url: https://homarques.github.io/me
 # your url: https://USERNAME.github.io
