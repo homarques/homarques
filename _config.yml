@@ -11,7 +11,7 @@ bio-url: https://ir.uiowa.edu/cgi/viewcontent.cgi?article=5447&context=iowarevie
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/bio.jpg
 bio-image: assets/images/bio.jpg
 
 # If you want to include your resume, set to true
