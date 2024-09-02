@@ -1,5 +1,5 @@
 ---
-title: "DAO, Dimensionality-Aware Outlier Detection"
+title: "Dimensionality-Aware Outlier Detection (DAO)"
 layout: post
 date: 2024-01-01 12:40
 tag: dao
