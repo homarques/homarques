@@ -1,7 +1,7 @@
 ---
 title: "IREOS, internal index for binary outlier detection results"
 layout: post
-date: 2021-04-01 12:40
+date: 2015-01-01 12:40
 tag: ireos
 headerImage: false
 projects: true
