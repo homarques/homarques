@@ -10,6 +10,6 @@ description: "IREOS can evaluate and compare different candidate labelings of a 
 category: project
 author: henrique
 externalLink: false
-pdf: 10.1145/2791347.2791352
+pdf: dl.acm.org/doi/10.1145/2791347.2791352
 github: IREOS-java
 ---
