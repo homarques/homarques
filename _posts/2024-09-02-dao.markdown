@@ -1,15 +1,15 @@
 ---
-title: "DAO, Dimensionality-Aware Outlier Detection"
+title: "IREOS, internal index for outlier detection results"
 layout: post
-date: 2024-09-02 12:08
-tag: dao
+date: 2021-04-01 12:40
+tag: ireos
 headerImage: false
 projects: true
-hidden: false
-description: "DAO is a nonparametric method for outlier detection that takes full account of local variations in intrinsic dimensionality within the dataset."
+hidden: true
+description: "IREOS can evaluate and compare different candidate labelings of a collection of multivariate observations in terms of outliers and inliers."
 category: project
 author: henrique
 externalLink: false
-pdf: 10.1137/1.9781611978032.75
-github: DAO
+pdf: 10.1145/3394053
+github: ireos-extension
 ---
