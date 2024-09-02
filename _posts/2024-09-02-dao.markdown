@@ -5,7 +5,7 @@ date: 2024-09-02 12:08
 tag: dao
 headerImage: false
 projects: true
-hidden: true
+hidden: false
 description: "DAO is a nonparametric method for outlier detection that takes full account of local variations in intrinsic dimensionality within the dataset."
 category: project
 author: henrique
