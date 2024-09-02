@@ -1,0 +1,15 @@
+---
+title: "On the Evaluation of Outlier Detection and One-Class Classification"
+layout: post
+date: 2023-01-01 12:40
+tag: occ
+headerImage: false
+projects: true
+hidden: true
+description: "Comparison of one-class classification algorithms with adapted unsupervised outlier detection methods, improving on previous comparison studies in several important aspects."
+category: project
+author: henrique
+externalLink: false
+pdf: doi.org/10.1007/s10618-023-00931-x
+github: occ
+---
