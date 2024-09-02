@@ -1,5 +1,5 @@
 ---
-title: "Internal, Relative Evaluation of Outlier Solutions (IREOS: Binary solutions)"
+title: "Internal, Relative Evaluation of Outlier Solutions (IREOS: Binary Solutions)"
 layout: post
 date: 2015-01-01 12:40
 tag: ireos
