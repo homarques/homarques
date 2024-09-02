@@ -1,0 +1,15 @@
+---
+title: "Similarity-based Internal, Relative Evaluation of Outlier Solutions (SIREOS)"
+layout: post
+date: 2022-01-01 12:40
+tag: sireos
+headerImage: false
+projects: true
+hidden: true
+description: "Index based on a (generic) similarity measure to efficiently evaluate candidate outlier detection solutions in a completely unsupervised way."
+category: project
+author: henrique
+externalLink: false
+pdf: doi.org/10.1007/978-3-031-17849-8_19
+github: SIREOS
+---
